@@ -39,9 +39,9 @@ Follow these instructions to set up and run the project on your local machine.
    ```bash
     npm run dev
 
-4. To start the development server:
+4. for build:
 
-```bash
-  npm run build
+   ```bash
+     npm run build
 
   
