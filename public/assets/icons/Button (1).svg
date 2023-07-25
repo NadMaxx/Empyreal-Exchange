@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Button">
+<rect id="Rectangle 3" x="-0.5" y="-0.5" width="47" height="47" transform="matrix(1.19249e-08 -1 -1 -1.19249e-08 47 47)" stroke="white" stroke-opacity="0.2"/>
+<rect id="Rectangle 4" width="38" height="38" transform="matrix(1.19249e-08 -1 -1 -1.19249e-08 43 43)" fill="white"/>
+<path id="Vector 5" d="M28 26L24 23L20 26" stroke="black" stroke-width="1.5" stroke-linejoin="bevel"/>
+<g id="Group 8">
+<path id="Vector 1" d="M3 47.5L0.5 47.5L0.5 45" stroke="white" stroke-linejoin="bevel"/>
+<path id="Vector 2" d="M45 47.5L47.5 47.5L47.5 45" stroke="white" stroke-linejoin="bevel"/>
+<path id="Vector 6" d="M0.5 3L0.5 0.5L3 0.5" stroke="white" stroke-linejoin="bevel"/>
+<path id="Vector 7" d="M47.5 3L47.5 0.5L45 0.5" stroke="white" stroke-linejoin="bevel"/>
+</g>
+</g>
+</svg>
